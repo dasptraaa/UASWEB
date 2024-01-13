@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Editing",
+      "description": "I can do editing using Photoshop, Lightroom, and Adobe Illustrator"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Photographer",
+      "description": "I am a professional photographer. I serve Sony and Canon"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I use figma"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Coding",
+      "description": "My passive skill is coding. I usually code using Python and Java"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/porfo1.jpg",
+      "title": "forest",
+      "description": "This visual photo was taken during a visit to Mount Willis",
+      "link": "View In Gogeldrive"
+    },
+    {
+      "id": "2",
+      "src": "./img/porfo2.jpg",
+      "title": "buffalo",
+      "description": "This visual photo of buffalo was taken in a village area located in the city of Trenggalek",
+      "link": "View In Gogeldrive"
+    },
+    {
+      "id": "3",
+      "src": "./img/porto4.jpg",
+      "title": "camp",
+      "description": "Visual photos taken while camping",
+      "link": "View In Gogeldrive"
+    }
+  ]
+}
